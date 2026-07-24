@@ -21,6 +21,8 @@ Duplicate URLs were removed so each topic appears once.
 5. [How to draw timing diagram for D Latch and D Flip-flop?](https://www.youtube.com/watch?v=oH-UQHBSL9Y)  
    Useful for revising latch transparency, edge-triggering, and race-through behavior.
 
+## STA
+
 6. [Setup time Analysis \|\| STA Tutorial 1 \|\| @knowledgeunlimited @VLSI](https://www.youtube.com/watch?v=5871uZY368g&list=PL3Soy1ohxlP2UQOzvB4wIJNs2gHalE6yW&index=1)  
    Good starting point for setup/hold analysis, timing paths, and slack calculation.
 
