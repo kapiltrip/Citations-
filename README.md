@@ -26,44 +26,56 @@ Duplicate URLs were removed so each topic appears once.
 6. [Setup time Analysis \|\| STA Tutorial 1 \|\| @knowledgeunlimited @VLSI](https://www.youtube.com/watch?v=5871uZY368g&list=PL3Soy1ohxlP2UQOzvB4wIJNs2gHalE6yW&index=1)  
    Good starting point for setup/hold analysis, timing paths, and slack calculation.
 
+7. [STA-II: Transmission Gate, D Latch, DFF, Setup & Hold](https://www.physicaldesign4u.com/2020/04/sta-ii-transmission-gated-latch-dffsetup.html)  
+   Connects transmission-gate latch and flip-flop operation to setup/hold requirements, timing slack, and the effect of clock skew.
+
 ## Devices and Semiconductor Basics
 
-7. [EDC \| MOSFET - 6 \| Lec 73 \| GATE ECE 2021 Exam](https://www.youtube.com/watch?v=VRgfnTq-NQA&list=PLs5_Rtf2P2r75okkE2V9oXbwJI-8m-63Q&index=74)  
+8. [EDC \| MOSFET - 6 \| Lec 73 \| GATE ECE 2021 Exam](https://www.youtube.com/watch?v=VRgfnTq-NQA&list=PLs5_Rtf2P2r75okkE2V9oXbwJI-8m-63Q&index=74)  
    Covers MOSFET operating regions, threshold voltage, and saturation current equations.
 
-8. [Boolean Function Implementation using Transmission Gates \| VLSI by Engineering Funda](https://www.youtube.com/watch?v=9h5sNXzdEAo)  
+9. [Boolean Function Implementation using Transmission Gates \| VLSI by Engineering Funda](https://www.youtube.com/watch?v=9h5sNXzdEAo)  
    Explains why transmission gates pass full rail and are efficient for MUX and XOR logic.
 
-9. [CMOS Transmission Gate Explained: Symbols, Circuit Design, Working & Truth Table](https://www.youtube.com/watch?v=wPs9hjrQd08)  
+10. [CMOS Transmission Gate Explained: Symbols, Circuit Design, Working & Truth Table](https://www.youtube.com/watch?v=wPs9hjrQd08)  
    Covers the complementary NMOS-PMOS circuit, control signals, bidirectional full-swing operation, and truth table.
 
-10. [EDC \| Semiconductor Physics - 6 \| Lec 6 \| GATE Electronics and Communication Engineering](https://www.youtube.com/watch?v=2MH4tXfcoH0&t=3s)  
+11. [4 to 1 Multiplexer Implementation using Transmission Gates \| VLSI by Engineering Funda](https://www.youtube.com/watch?v=lm-imOZ0ItM&t=1s)  
+    Demonstrates a 4:1 multiplexer built from transmission-gate switching paths and complementary select controls.
+
+12. [D Latch Implementation using Transmission Gate \| CMOS Transmission Gate \| VLSI by Engineering Funda](https://www.youtube.com/watch?v=vXLBHkQwqoU)  
+    Shows how transmission gates and inverters create the transparent and data-hold phases of a CMOS D latch.
+
+13. [D Flip-Flop Implementation using CMOS Transmission Gates (Part 1)](https://www.youtube.com/watch?v=Cy4vIf0pgwg)  
+    Introduces a master-slave D flip-flop implementation using transmission gates and complementary clock phases.
+
+14. [EDC \| Semiconductor Physics - 6 \| Lec 6 \| GATE Electronics and Communication Engineering](https://www.youtube.com/watch?v=2MH4tXfcoH0&t=3s)  
    Reviews drift velocity, mobility, electric field relation, and velocity saturation.
 
-11. [EDC \| Semiconductor Physics - 8 \| Lec 8 \| GATE Electronics and Communication Engineering](https://www.youtube.com/watch?v=4Rpn0F37I9k&list=PLs5_Rtf2P2r75okkE2V9oXbwJI-8m-63Q&index=8)  
+15. [EDC \| Semiconductor Physics - 8 \| Lec 8 \| GATE Electronics and Communication Engineering](https://www.youtube.com/watch?v=4Rpn0F37I9k&list=PLs5_Rtf2P2r75okkE2V9oXbwJI-8m-63Q&index=8)  
     Focuses on mobility changes with temperature and doping, plus electron vs hole mobility.
 
-12. [EDC \| MOS Capacitor - 3 \| Lec 63 \| GATE ECE 2021 Exam](https://www.youtube.com/watch?v=OGqiPPF4fxs&list=PLs5_Rtf2P2r75okkE2V9oXbwJI-8m-63Q&index=65)  
+16. [EDC \| MOS Capacitor - 3 \| Lec 63 \| GATE ECE 2021 Exam](https://www.youtube.com/watch?v=OGqiPPF4fxs&list=PLs5_Rtf2P2r75okkE2V9oXbwJI-8m-63Q&index=65)  
     Handy revision link for MOS capacitor behavior and the accumulation, depletion, and inversion picture.
 
 ## Power
 
-13. [Power Analysis-II](https://www.youtube.com/watch?v=n649eze39Fc&list=PLLy_2iUCG87Bdulp9brz9AcvW_TnFCUmM&index=10)  
+17. [Power Analysis-II](https://www.youtube.com/watch?v=n649eze39Fc&list=PLLy_2iUCG87Bdulp9brz9AcvW_TnFCUmM&index=10)  
     Covers NLPM in `.lib` files and the difference between vector-based and vectorless power estimation.
 
-14. [Power Optimization Techniques](https://www.youtube.com/watch?v=-jYtXAHvoZM)  
+18. [Power Optimization Techniques](https://www.youtube.com/watch?v=-jYtXAHvoZM)  
     Practical overview of DVFS, clock gating, and power gating for lowering power.
 
-15. [Power Dissipation in CMOS](https://www.youtube.com/watch?v=u3--39QdD2Y)  
+19. [Power Dissipation in CMOS](https://www.youtube.com/watch?v=u3--39QdD2Y)  
     Breaks CMOS power into dynamic, short-circuit, and leakage components.
 
 ## Counters and Memory
 
-16. [Digital Electronics 09 \| Asynchronous Counter \| ECE, EE, CSE & IT \| GATE Crash Course](https://www.youtube.com/watch?v=kmBzDukmMcU)  
+20. [Digital Electronics 09 \| Asynchronous Counter \| ECE, EE, CSE & IT \| GATE Crash Course](https://www.youtube.com/watch?v=kmBzDukmMcU)  
     Strong revision video for ripple counters, MOD-N design, and cumulative propagation delay.
 
-17. [Digital Electronics 10 \| Complete Synchronous Counter in 2 Hour \| ECE, EE, CS IT \| GATE Crash Course](https://www.youtube.com/watch?v=T5X89yi16YI)  
+21. [Digital Electronics 10 \| Complete Synchronous Counter in 2 Hour \| ECE, EE, CS IT \| GATE Crash Course](https://www.youtube.com/watch?v=T5X89yi16YI)  
     Covers synchronous counter design with common clocking, state tables, and excitation tables.
 
-18. [DRAM - Read and Write operations (Most detailed explanation!)](https://www.youtube.com/watch?v=LyqyIKSYlxw)  
+22. [DRAM - Read and Write operations (Most detailed explanation!)](https://www.youtube.com/watch?v=LyqyIKSYlxw)  
     Explains the 1T-1C DRAM cell, destructive read, sense amplifiers, and refresh.
