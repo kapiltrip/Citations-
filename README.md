@@ -1,6 +1,6 @@
 # Important VLSI and Digital Design Links
 
-Quick reference page for videos worth revisiting for CDC, timing, devices, power, counters, and memory.
+Quick reference page for videos worth revisiting for CDC, timing, devices, power, counters, memory, and microprocessors.
 
 Duplicate URLs were removed so each topic appears once.
 
@@ -77,5 +77,16 @@ Duplicate URLs were removed so each topic appears once.
 21. [Digital Electronics 10 \| Complete Synchronous Counter in 2 Hour \| ECE, EE, CS IT \| GATE Crash Course](https://www.youtube.com/watch?v=T5X89yi16YI)  
     Covers synchronous counter design with common clocking, state tables, and excitation tables.
 
-22. [DRAM - Read and Write operations (Most detailed explanation!)](https://www.youtube.com/watch?v=LyqyIKSYlxw)  
+22. [Clock divided by 3 \|\| Explained step by step! [Frequency divide by 3] F/3 or F/odd number](https://www.youtube.com/watch?v=wxUqxSE_F5A)  
+    Explains divide-by-3 clock generation with a 50% duty cycle using timing waveforms.
+
+23. [Clock divided by 3 with 75% Duty Cycle.](https://www.youtube.com/watch?v=4hOo1NeLVUE&t=25s)  
+    Extends the divide-by-3 design to produce a clock waveform with a 75% duty cycle.
+
+24. [DRAM - Read and Write operations (Most detailed explanation!)](https://www.youtube.com/watch?v=LyqyIKSYlxw)  
     Explains the 1T-1C DRAM cell, destructive read, sense amplifiers, and refresh.
+
+## Microprocessors
+
+25. [Lec-01: Introduction to 8085 Microprocessor | Microprocessor | Ankit Goyal | One Man Army](https://www.youtube.com/watch?v=R5dT2xM-7JQ&list=PLR7krO3VHssR87ODP_7GDPCVTAYXw9ech&index=16)  
+    Introductory 8085 lecture covering microprocessor basics, architecture context, and course framing.
