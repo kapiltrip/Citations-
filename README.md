@@ -89,7 +89,15 @@ Duplicate URLs were removed so each topic appears once.
 25. [DRAM - Read and Write operations (Most detailed explanation!)](https://www.youtube.com/watch?v=LyqyIKSYlxw)  
     Explains the 1T-1C DRAM cell, destructive read, sense amplifiers, and refresh.
 
+## AMBA Bus Protocols
+
+26. [APB Protocol Verilog Code Explained \| Step-by-Step APB Design and Implementation](https://www.youtube.com/watch?v=WFYG1ST5pko&list=PLqPfWwayuBvPpjwnJsJ7qSQAXh7NQFMzO&index=5)  
+    Walks through the Verilog design and implementation of the AMBA APB peripheral-bus protocol.
+
+27. [AMBA AHB Protocol Introduction \| Master Interface Signals Explained \| On-Chip Bus Protocols Overview](https://www.youtube.com/watch?v=dxKE1wHvHCg&list=PLqPfWwayuBvNX_IQPBHGJn8YFkvI86lr9b)  
+    Introduces the AMBA AHB on-chip bus and explains the signals used by its master interface.
+
 ## Microprocessors
 
-26. [Lec-01: Introduction to 8085 Microprocessor | Microprocessor | Ankit Goyal | One Man Army](https://www.youtube.com/watch?v=R5dT2xM-7JQ&list=PLR7krO3VHssR87ODP_7GDPCVTAYXw9ech&index=16)  
+28. [Lec-01: Introduction to 8085 Microprocessor | Microprocessor | Ankit Goyal | One Man Army](https://www.youtube.com/watch?v=R5dT2xM-7JQ&list=PLR7krO3VHssR87ODP_7GDPCVTAYXw9ech&index=16)  
     Introductory 8085 lecture covering microprocessor basics, architecture context, and course framing.
